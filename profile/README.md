@@ -11,7 +11,8 @@ curl -fsSL https://raw.githubusercontent.com/forgewright-ai/spark/main/get | sh
 
 - [spark](https://github.com/forgewright-ai/spark) -- the repository: the code, the three model lists, the roadmap
 - [sparkapp](https://github.com/forgewright-ai/sparkapp) -- the desktop door: spark's own page as a macOS and Windows app
-- [www.forgewright.ai](https://www.forgewright.ai) -- the same story, one page
+- [spark.forgewright.ai](https://spark.forgewright.ai) -- the page: the docs, the model lists, the demos
+- [www.forgewright.ai](https://www.forgewright.ai) -- the org: every project, one line each
 - [CONTRIBUTING.md](https://github.com/forgewright-ai/spark/blob/main/CONTRIBUTING.md) -- a model row is a pull request
 
 MIT. Built with Claude.
