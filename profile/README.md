@@ -6,11 +6,10 @@ the front door. The prompt line is the surprise: ask, press Enter, and the
 command is in your line.
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/forgewright-ai/spark/main/get | sh
+curl -fsSL https://github.com/forgewright-ai/spark/releases/latest/download/get | sh
 ```
 
 - [spark](https://github.com/forgewright-ai/spark) -- the repository: the code, the model list, the roadmap
-- [sparkapp](https://github.com/forgewright-ai/sparkapp) -- the desktop door: spark's own page as a macOS and Windows app
 - [spark.forgewright.ai](https://spark.forgewright.ai) -- the page: the docs, the model list, the demos
 - [CONTRIBUTING.md](https://github.com/forgewright-ai/spark/blob/main/docs/CONTRIBUTING.md) -- a model row is a pull request
 
