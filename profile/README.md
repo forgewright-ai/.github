@@ -11,6 +11,7 @@ curl -fsSL https://github.com/forgewright-ai/spark/releases/latest/download/get 
 
 - [spark](https://github.com/forgewright-ai/spark) -- the repository: the code, the model list, the roadmap
 - [spark.forgewright.ai](https://spark.forgewright.ai) -- the page: the docs, the model list, the demos
+- [Discussions](https://github.com/forgewright-ai/spark/discussions) -- ask a question, show what you made, suggest an idea
 - [CONTRIBUTING.md](https://github.com/forgewright-ai/spark/blob/main/docs/CONTRIBUTING.md) -- a model row is a pull request
 
 MIT. Built with Claude.
