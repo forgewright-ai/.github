@@ -13,11 +13,14 @@ AI is an optional capability, never a requirement for the whole experience.
   controlled execution.
 - **spark-shell** provides the terminal environment and an optional Linux
   desktop, functional without AI.
-- **spark-www** supports the website, documentation, learning and public reports.
+- **spark.forgewright.ai**, the website, carries the documentation, learning
+  and public reports.
 
 Repeatable engineering, scaffolding and distribution practices support the
 family without becoming product dependencies. Each product stays focused and
-can evolve independently through thin, explicit interfaces.
+can evolve independently through thin, explicit interfaces. Each spark app
+lives in its own `spark-<app>` repository as a client of spark's documented
+surfaces, installed the app's own way.
 
 ## Engineering philosophy
 
